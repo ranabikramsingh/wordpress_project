@@ -1,0 +1,5 @@
+[17-May-2024 13:19:39 UTC] PHP Warning:  Undefined variable $message in C:\xampp8.2\htdocs\wordpress-project\wp-content\plugins\contact-form.php on line 83
+[17-May-2024 13:19:39 UTC] WordPress database error Column 'message' cannot be null for query INSERT INTO `wp_contact_form_data` (`name`, `email`, `subject`, `message`) VALUES ('RANA BIKRAM', 'bikram2@gmail.com', 'about offer2', NULL) made by do_action('admin_post_save_contact_form'), WP_Hook->do_action, WP_Hook->apply_filters, save_contact_form
+[17-May-2024 13:20:53 UTC] PHP Warning:  Undefined variable $message in C:\xampp8.2\htdocs\wordpress-project\wp-content\plugins\contact-form.php on line 83
+[17-May-2024 13:20:53 UTC] WordPress database error Column 'message' cannot be null for query INSERT INTO `wp_contact_form_data` (`name`, `email`, `subject`, `message`) VALUES ('Rana Bikram Singh', 'bikram3@gmail.comd', 'vsvfbd', NULL) made by do_action('admin_post_save_contact_form'), WP_Hook->do_action, WP_Hook->apply_filters, save_contact_form
+[17-May-2024 13:20:53 UTC] Database insert failed
