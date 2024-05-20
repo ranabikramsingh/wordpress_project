@@ -59,9 +59,10 @@
 			exit;
 		}
 	}
-
+    
+	// call any one function
 	add_action('admin_post_nopriv_contact_form', 'handle_contact_form_submission');
 	add_action('admin_post_contact_form', 'handle_contact_form_submission');
-
+  
 
 ?>
